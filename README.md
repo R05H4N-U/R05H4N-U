@@ -28,7 +28,7 @@
 
 Cybersecurity graduate focused on **offensive security** and **penetration testing**. I've worked across web exploitation, network VAPT, and applied ML/NLP in security contexts. Currently sharpening practical skills through HTB Academy and real CTF challenges while pursuing CPTS.
 
-Active on HackTheBox — solved web challenges across SQL injection, JWT forgery, XSS, RCE (`md-to-pdf` YAML frontmatter), and SSRF. I document and break things for a living.
+Active on HackTheBox — solved web challenges across SQL injection, JWT forgery, XSS, RCE , and SSRF. I document and break things for a living.
 
 ---
 
